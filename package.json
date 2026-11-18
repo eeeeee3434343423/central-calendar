@@ -1,0 +1,11 @@
+{
+  "name": "central-calendar",
+  "version": "1.0.0",
+  "description": "Central Calendar: a local-first calendar web app (Day, Week, Month, Year views) with no dependencies.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  }
+}
